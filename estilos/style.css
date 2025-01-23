@@ -56,6 +56,7 @@ header > p {
     max-width: 500px;
     text-align: center;
     margin: auto;
+    padding-bottom: 30px;
 }
 
 p {
@@ -157,6 +158,10 @@ article > h2 {
     font-weight: normal;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
+}
+
+article > div {
+    padding: 0px;
 }
 
 aside {
